@@ -1,0 +1,3 @@
+[submodule "src/test1"]
+	path = src/test1
+	url = https://github.com/jaguarsy/test1.git
